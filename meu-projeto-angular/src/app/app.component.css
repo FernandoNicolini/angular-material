@@ -1,0 +1,12 @@
+.custom-card {
+  margin: 10px;
+  max-width: 400px;
+}
+
+mat-card-title {
+  font-weight: bold;
+}
+
+mat-icon {
+  margin-right: 8px;
+}
